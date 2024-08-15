@@ -1,0 +1,40 @@
+1. Title: Pittsburgh bridges
+
+
+2. Number of instances: 108
+
+3. Missing values: YES 
+   
+4. Attribute Information:  
+
+    continuous-float/ integer  
+	 or nominal/ordinal .
+   
+
+     name			possible values			comments
+   ------------------------------------------------------------------------------------------------------
+   1. IDENTIF						identifier of the examples
+   2. RIVER		A, M, O				river crossing:  Allegheny\Monongahela\Ohio River
+   3. ERECTED		1818-1986 			the year the bridge was built
+   4. PURPOSE		WALK, AQUEDUCT, RR, HIGHWAY	purpose of the bridge
+   5.  LENGTH		804-4558 			length in meters
+   6.  LANES		1, 2, 4, 6				the number of lanes
+   7.  T-OR-D		THROUGH, DECK			whether the bridge type is through\deck
+   8. MATERIAL		WOOD, IRON, STEEL		main material
+   9. SPAN		SHORT, MEDUIM, LONG		span range
+   
+
+
+2. Sources:
+   -- Yoram Reich & Steven J. Fenves
+      Department of Civil Engineering
+      and
+      Engineering Design Research Center
+      Carnegie Mellon University
+      Pittsburgh, PA 15213
+
+      Compiled from various sources.
+
+   -- Donor: Yoram Reich (yoram.reich@cs.cmu.edu)
+   -- Date: 1 August 1990
+
